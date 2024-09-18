@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+scikit-learn
+plotly
+spicy
+matplotlib==3.9.2
+seaborn
+missingno
+geopandas==1.0.1
+sklearn
